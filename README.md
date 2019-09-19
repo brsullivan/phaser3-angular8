@@ -25,8 +25,8 @@
 ```
   <script>
     if (global === undefined) {
-    var global = window;
-  }
+      var global = window;
+    }
   </script>
 ```
 
