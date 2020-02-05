@@ -11,7 +11,7 @@
   npm i --save phaser
 ```
 
-3. Copy `phaser.d.ts` from `/node_modules/phaser/types/` and place it in your project's `src/` folder.  
+3. Copy `phaser.d.ts` from `/node_modules/phaser/types/` and place it in your project folder.  
 4. Copy `phaser.min.js` from `/node_modules/phaser/dist/` and place it in your project's `src/assets/` folder.
 5. Add reference to the `phaser.min.js` file in your `index.html`.
 ```
